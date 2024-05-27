@@ -1,0 +1,36 @@
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input {
+  margin: 5px;
+  padding: 8px;
+  width: calc(100% - 22px);
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+}
+
+.service-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+  text-align: left;
+}
+
+.service-item h3 {
+  margin: 0;
+}
+
+.service-item button {
+  margin-right: 10px;
+}
